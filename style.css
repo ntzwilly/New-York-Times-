@@ -1,14 +1,11 @@
 body {
   text-align: center;
-  margin: 0px;
-  padding: 0px;
-  font-family: nyt-imperial;
+  font-family: "nyt-imperial";
 }
 
 .icon {
   margin-left: 20px;
   height: 16px;
-  width: 16px;
 }
 
 #space {
@@ -16,11 +13,6 @@ body {
   text-decoration: none;
   margin-top: 0px;
   margin-left: 40px;
-}
-
-#logo {
-  width: auto;
-  height: auto;
 }
 
 #header {
@@ -120,17 +112,6 @@ body {
 
 #telescope-img {
   width: 100%;
-}
-
-#btn-signup {
-  padding: 8px 10px 8px 10px;
-  background: none;
-  border: 1px solid black;
-}
-
-.flex {
-  width: 24%;
-  margin-top: 140px;
 }
 
 #flex-title {
