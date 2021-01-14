@@ -55,8 +55,7 @@
   
   .icons {
     display: flex;
-    display: inline;
-    justify-content: center;
+    flex-direction: row;
     padding-top: 0;
   }
   
