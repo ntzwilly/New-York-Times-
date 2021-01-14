@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: "nyt-imperial";
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .icon {
@@ -116,7 +116,6 @@ body {
 #flex-title {
   width: 1000px;
   margin-left: -150px;
-  margin-bottom: 0px;
 }
 
 #bottom {
@@ -167,7 +166,7 @@ body {
 #title {
   margin-top: 100px;
   width: 50%;
-  font-family: 'nyt-imperial';
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-left: 400px;
   text-align: left;
   font-size: 2.4em;
