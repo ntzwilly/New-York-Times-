@@ -42,13 +42,14 @@ body {
   border: none;
   border-radius: 4px;
 }
-
-.icons {
+.container {
   display: flex;
-  flex-direction: row;
-  padding-top: 0;
+  flex-wrap: nowrap;
+  margin-left: 25%;
 }
-
+.icons {
+  padding-right: 15px;
+}
 #image {
   width: 75%;
 }

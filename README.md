@@ -20,6 +20,21 @@ During the collaborative we learnt how to:
 
 - Footer: footer contains other information that can help the user navigate to other sections of the website. 
 
-Collabortors username:
-1. ntzwilly
-2. prolajumoke
+
+Collaborators username on
+Github:          
+ntzwilly
+prolajumoke  
+
+Twitter:
+Prolajumokeoni 
+
+Linkedin:
+
+
+https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162
+
+
+
+
+
