@@ -21,11 +21,16 @@ During the collaborative we learnt how to:
 
 
 Collaborators username on
-Github:         Twitter:             Linkedin:
-ntzwilly        Ntazama Willy        ntazama-willy-b676b7aa
-prolajumoke     Prolajumokeoni       olajumoke-priscilla-oni-44a48b162
+Github:                    
+ntzwilly             
+prolajumoke           
 
 
+Twitter:  
+Ntazama Willy 
+Prolajumokeoni 
 
-
+Linkedin:
+ntazama-willy-b676b7aa
+olajumoke-priscilla-oni-44a48b162
 
