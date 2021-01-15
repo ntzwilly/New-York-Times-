@@ -117,24 +117,24 @@
   margin-left: -150px;
 }
 
-.contact-list a {
-  font-size: 11px;
-  color: #666666;
-}
-
 footer a {
   text-decoration: none;
   color: black;
   font-size: 14px;
 }
 
-.footer-container li a {
-  display: block;
+.contact-list a {
+  font-size: 11px;
+  color: #666;
 }
 
 .home a {
   color: rgb(86, 123, 149);
   font-size: 11px;
+}
+
+.footer-container li a {
+  display: block;
 }
 
 #bottom {
@@ -238,7 +238,6 @@ footer li {
 }
 
 .contact {
-  margin: 20px 0px;
   border-top: 1px solid #e2e2e2;
 }
 
