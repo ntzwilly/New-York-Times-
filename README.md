@@ -18,7 +18,10 @@ Project Title: New-York-Times-
 - Body: Body contains  content that includes icons, pictures, videos and text all gotten from the The new York Times website.
 
 - Footer: footer contains other information that can help the user navigate to other sections of the website. 
-# Images 
+# Screenshots from our project
+![ntzwilly github io_New-York-Times-_ (clone)](https://user-images.githubusercontent.com/69638013/104735204-99d07b80-5741-11eb-8581-a9fa7814d890.png)
+![newyork times clone footer](https://user-images.githubusercontent.com/69638013/104735643-1cf1d180-5742-11eb-8fab-ee8cc4bf5855.png)
+
 
 
 
