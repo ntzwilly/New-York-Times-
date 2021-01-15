@@ -1,9 +1,8 @@
+#Project Title: New-York-Times-
 
-
-Project Title: 
-Project Description: Our assignment was to clone the New York times page from the odin project.
-
-During the collaborative we learnt how to:
+#Project Description: Our assignment was to clone the New York times page from the odin project.
+[Live demo of the  project](https://ntzwilly.github.io/New-York-Times-/)
+#During the collaborative we learnt how to:
  1. Set up GitHub
  2. Set up linters 
  3. Create HTML5 semantic tags
@@ -21,18 +20,10 @@ During the collaborative we learnt how to:
 - Footer: footer contains other information that can help the user navigate to other sections of the website. 
 
 
-Collaborators username on
-Github:          
-ntzwilly
-prolajumoke  
-
-Twitter:
-Prolajumokeoni 
-
-Linkedin:
-
-
-https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162
+#Collaborators username on
+Github:         Twitter:             Linkedin:
+ntzwilly        Ntazama Willy        ntazama-willy-b676b7aa
+prolajumoke     Prolajumokeoni       olajumoke-priscilla-oni-44a48b162
 
 
 
