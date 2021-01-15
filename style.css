@@ -117,18 +117,29 @@
   margin-left: -150px;
 }
 
+.contact-list a {
+  font-size: 11px;
+  color: #666666;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
 .footer-container li a {
   display: block;
+}
+
+.home a {
+  color: rgb(86, 123, 149);
+  font-size: 11px;
 }
 
 #bottom {
   font-size: 1.5ch;
   opacity: 0.7;
-}
-
-.contact-list a {
-  font-size: 11px;
-  color: #666666;
 }
 
 #bottom a {
@@ -198,17 +209,6 @@ footer {
   margin: 0;
   padding: 0;
   width: 60px;
-}
-
-.home a {
-  color: rgb(86, 123, 149);
-  font-size: 11px;
-}
-
-footer a {
-  text-decoration: none;
-  color: black;
-  font-size: 14px;
 }
 
 footer img {
