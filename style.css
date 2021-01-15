@@ -117,9 +117,18 @@
   margin-left: -150px;
 }
 
+.footer-container li a {
+  display: block;
+}
+
 #bottom {
   font-size: 1.5ch;
   opacity: 0.7;
+}
+
+.contact-list a {
+  font-size: 11px;
+  color: #666666;
 }
 
 #bottom a {
@@ -191,8 +200,15 @@ footer {
   width: 60px;
 }
 
-.footer-container li a {
-  display: block;
+.home a {
+  color: rgb(86, 123, 149);
+  font-size: 11px;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
 }
 
 footer img {
@@ -204,12 +220,6 @@ footer img {
 footer h3 {
   font-size: 13px;
   font-weight: bold;
-}
-
-footer a {
-  text-decoration: none;
-  color: black;
-  font-size: 14px;
 }
 
 footer li {
@@ -237,11 +247,6 @@ footer li {
   justify-content: space-evenly;
 }
 
-.contact-list a {
-  font-size: 11px;
-  color: #666666;
-}
-
 .hr-3 {
   padding-bottom: 7px;
   border-bottom: 1px solid #e2e2e2;
@@ -257,9 +262,4 @@ footer li {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
-}
-
-.home a {
-  color: rgb(86, 123, 149);
-  font-size: 11px;
 }
