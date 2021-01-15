@@ -151,15 +151,6 @@
   margin-right: 40px;
 }
 
-#icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-  width: 20px;
-  height: 20px;
-  margin-right: 40px;
-}
-
 .logo {
   width: 20%;
   margin-right: 78%;
