@@ -1,8 +1,4 @@
-Project Description: Our assignment was to clone the New York times page from the odin project.
-[Live demo of the  project](https://ntzwilly.github.io/New-York-Times-/)
-During the collaborative we learnt how to:
-
-# Project Description: Our assignment was to clone the New York times page from the odin project.
+# Task: Our assignment was to clone the New York times page from the odin project.
 [Live demo of the deployed project](https://ntzwilly.github.io/New-York-Times-/)
 
 # During the collaborative we learnt how to:
