@@ -166,7 +166,7 @@ footer a {
   width: 350px;
   height: 40px;
   color: white;
-  background-color: rgb(75, 107, 148);
+  background-color: rgb(86,123,149);
   margin-left: 40px;
   margin-top: 10px;
   border: none;
@@ -231,9 +231,9 @@ footer a {
 }
 
 footer {
+  margin: 0 150px 0 100px;
   border-top: 3px ridge #e2e2e2;
-  width: 1000px;
-  margin-left: 300px;
+ 
 }
 
 .footer-container {
@@ -277,11 +277,16 @@ footer li {
 
 .contact {
   border-top: 1px solid #e2e2e2;
+  width: auto;
 }
 
 .contact-list {
-  display: flex;
-  justify-content: space-evenly;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto;
+}
+
+.contact-list li {
+  margin: 2px
 }
 
 .hr-3 {
@@ -289,7 +294,7 @@ footer li {
   border-bottom: 1px solid #e2e2e2;
 }
 
-.left {
+.vertical-line {
   border-left: 1px solid #e2e2e2;
   height: 400px;
   padding: 10px;
@@ -300,3 +305,5 @@ footer li {
   justify-content: space-between;
   margin-top: 20px;
 }
+
+
