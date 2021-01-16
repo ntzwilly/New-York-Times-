@@ -1,6 +1,3 @@
-<<<<<<< Project Title: New-York-Times-
-
-
 Project Description: Our assignment was to clone the New York times page from the odin project.
 [Live demo of the  project](https://ntzwilly.github.io/New-York-Times-/)
 During the collaborative we learnt how to:
