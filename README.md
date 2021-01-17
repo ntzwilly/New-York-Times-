@@ -27,7 +27,7 @@
 
 ![editors pick 1](https://user-images.githubusercontent.com/69638013/104853600-3d688a00-5902-11eb-9570-95e573ad967d.png)
 
-![footer](https://user-images.githubusercontent.com/69638013/104853601-40637a80-5902-11eb-9f4f-1a5cf139cedf.png)
+![footer1](https://user-images.githubusercontent.com/69638013/104853924-56723a80-5904-11eb-83fc-9ae2551c5dfa.png)
 
 
 # screenshots from original page 
