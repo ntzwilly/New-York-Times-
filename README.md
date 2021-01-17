@@ -19,9 +19,15 @@
 - Footer: footer contains other information that can help the user navigate to other sections of the website. 
 
 # Screenshots from our project
-![ntzwilly github io_New-York-Times-_ (clone)](https://user-images.githubusercontent.com/69638013/104735204-99d07b80-5741-11eb-8581-a9fa7814d890.png)
-![newyork times clone footer](https://user-images.githubusercontent.com/69638013/104735643-1cf1d180-5742-11eb-8fab-ee8cc4bf5855.png)
 
+![header 1](https://user-images.githubusercontent.com/69638013/104853591-2de94100-5902-11eb-89f3-182227b5f5b3.png)
+
+![body ](https://user-images.githubusercontent.com/69638013/104853698-c7185780-5902-11eb-8c31-6efea6680425.png)
+
+
+![editors pick 1](https://user-images.githubusercontent.com/69638013/104853600-3d688a00-5902-11eb-9570-95e573ad967d.png)
+
+![footer1](https://user-images.githubusercontent.com/69638013/104853924-56723a80-5904-11eb-83fc-9ae2551c5dfa.png)
 
 
 # screenshots from original page 
@@ -32,15 +38,15 @@ Suggestions and comments on how to make this project better are welcomed by the 
 # Collaborators username on
 
 Github: 
-[github.com/ntzwilly ](https://github.com/ntzwilly )
-[github.com/prolajumoke](github.com/prolajumoke)
+Willy: [github.com/ntzwilly ](https://github.com/ntzwilly )
+Priscilla: [github.com/prolajumoke](github.com/prolajumoke)
 
 Twitter:
-[twitter.com/NtazamaWilly](twitter.com/NtazamaWilly)
-[twitter.com/prolajumokeoni](twitter.com/prolajumokeoni)
+Willy: [twitter.com/NtazamaWilly](twitter.com/NtazamaWilly)
+Priscilla: [twitter.com/prolajumokeoni](twitter.com/prolajumokeoni)
 
 Linkedin:
-[linkedin.com/ntazama-willy-b676b7aa](linkedin.com/ntazama-willy-b676b7aa)
-[linkedin.com/olajumoke-priscilla-oni-44a48b162](linkedin.com/olajumoke-priscilla-oni-44a48b162)
+Willy: [linkedin.com/ntazama-willy-b676b7aa](linkedin.com/ntazama-willy-b676b7aa)
+Priscilla: [linkedin.com/olajumoke-priscilla-oni-44a48b162](linkedin.com/olajumoke-priscilla-oni-44a48b162)
 
 
