@@ -85,10 +85,6 @@ footer a {
   font-weight: 500;
 }
 
-.footer-container li a {
-  display: block;
-}
-
 .home a {
   color: rgb(86, 123, 149);
   font-size: 11px;
@@ -99,8 +95,18 @@ footer a {
   color: #666;
 }
 
+.footer-container li a {
+  display: block;
+}
+
 .pick a:hover {
   text-decoration: underline;
+}
+
+footer img {
+  margin-bottom: 15px;
+  height: 44px;
+  width: 184px;
 }
 
 .pick img {
@@ -214,12 +220,6 @@ footer a {
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
   margin: 15px;
-}
-
-footer img {
-  margin-bottom: 15px;
-  height: 44px;
-  width: 184px;
 }
 
 .newsletter img {
