@@ -38,15 +38,15 @@ Suggestions and comments on how to make this project better are welcomed by the 
 # Collaborators username on
 
 Github: 
-[github.com/ntzwilly ](https://github.com/ntzwilly )
-[github.com/prolajumoke](github.com/prolajumoke)
+Willy: [github.com/ntzwilly ](https://github.com/ntzwilly )
+Priscilla: [github.com/prolajumoke](github.com/prolajumoke)
 
 Twitter:
-[twitter.com/NtazamaWilly](twitter.com/NtazamaWilly)
-[twitter.com/prolajumokeoni](twitter.com/prolajumokeoni)
+Willy: [twitter.com/NtazamaWilly](twitter.com/NtazamaWilly)
+Priscilla: [twitter.com/prolajumokeoni](twitter.com/prolajumokeoni)
 
 Linkedin:
-[linkedin.com/ntazama-willy-b676b7aa](linkedin.com/ntazama-willy-b676b7aa)
-[linkedin.com/olajumoke-priscilla-oni-44a48b162](linkedin.com/olajumoke-priscilla-oni-44a48b162)
+Willy: [linkedin.com/ntazama-willy-b676b7aa](linkedin.com/ntazama-willy-b676b7aa)
+Priscilla: [linkedin.com/olajumoke-priscilla-oni-44a48b162](linkedin.com/olajumoke-priscilla-oni-44a48b162)
 
 
