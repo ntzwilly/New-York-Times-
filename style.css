@@ -175,6 +175,13 @@ footer img {
   font-size: 1.2rem;
 }
 
+.description > div:nth-of-type(2) {
+  font-size: 0.7rem;
+  font-weight: bold;
+  color: darkblue;
+  margin-top: 15px;
+}
+
 .description > div > div:nth-of-type(2) {
   font-size: 0.9rem;
   font-weight: bold;
@@ -187,13 +194,6 @@ footer img {
 
 .description > div > div:nth-of-type(3) {
   font-size: 0.8rem;
-}
-
-.description > div:nth-of-type(2) {
-  font-size: 0.7rem;
-  font-weight: bold;
-  color: darkblue;
-  margin-top: 15px;
 }
 
 .more {
