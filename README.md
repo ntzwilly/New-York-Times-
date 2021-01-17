@@ -19,11 +19,7 @@
 - Footer: footer contains other information that can help the user navigate to other sections of the website. 
 
 # Screenshots from our project
-![ntzwilly github io_New-York-Times-_ (clone)](https://user-images.githubusercontent.com/69638013/104735204-99d07b80-5741-11eb-8581-a9fa7814d890.png)
-![newyork times clone footer](https://user-images.githubusercontent.com/69638013/104735643-1cf1d180-5742-11eb-8fab-ee8cc4bf5855.png)
-
-
-
+![header 1](https://user-images.githubusercontent.com/69638013/104853434-1d849680-5901-11eb-940b-e240093fa893.png)
 # screenshots from original page 
 ![www nytimes com_2014_03_18_science_space_detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang html__r=0%27](https://user-images.githubusercontent.com/69638013/104735931-85d94980-5742-11eb-902e-d66730ac3354.png)
 ![footer original](https://user-images.githubusercontent.com/69638013/104735941-87a30d00-5742-11eb-9d1c-6faefe821e03.png)
