@@ -22,7 +22,7 @@
 }
 
 #logo {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   display: inline;
   width: 20%;
   height: auto;
@@ -147,26 +147,26 @@
   margin: 15px;
 }
 .newsletter img {
-    width: 80px;
+  width: 80px;
 }
-.description>div>div:first-of-type {
-    font-size: 0.7rem;
+.description > div > div:first-of-type {
+  font-size: 0.7rem;
 }
-.description>div>div:nth-of-type(2) {
-    font-size: 0.9rem;
-    font-weight: bold;
-    margin-bottom: 5px;
+.description > div > div:nth-of-type(2) {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
-.description>div>div:nth-of-type(3) {
-    font-size: 0.8rem;
+.description > div > div:nth-of-type(3) {
+  font-size: 0.8rem;
 }
-.description>div:nth-of-type(2) {
-    font-size: 0.7rem;
-    font-weight: bold;
-    color: darkblue;
-    margin-top: 15px;
+.description > div:nth-of-type(2) {
+  font-size: 0.7rem;
+  font-weight: bold;
+  color: darkblue;
+  margin-top: 15px;
 }
-.newsletter>div:last-of-type {
+.newsletter > div:last-of-type {
   position: absolute;
   top: 15px;
   right: 15px;
@@ -188,13 +188,13 @@
   margin: 0 15px;
 }
 .more img {
-    width: 60px;
+  width: 60px;
 }
-.more>div>div:first-of-type {
+.more > div > div:first-of-type {
   font-size: 0.9rem;
   margin-bottom: 5px;
 }
-.more>div>div:nth-of-type(2) {
+.more > div > div:nth-of-type(2) {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.7rem;
   color: gray;
@@ -246,7 +246,7 @@ footer a {
   width: 350px;
   height: 40px;
   color: white;
-  background-color: rgb(86,123,149);
+  background-color: rgb(86, 123, 149);
   margin-left: 40px;
   margin-top: 10px;
   border: none;
@@ -276,7 +276,7 @@ footer a {
 #title {
   margin-top: 100px;
   width: 50%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin-left: 400px;
   text-align: left;
   font-size: 2.4em;
@@ -313,7 +313,6 @@ footer a {
 footer {
   margin: 0 150px 0 100px;
   border-top: 3px ridge #e2e2e2;
- 
 }
 
 .footer-container {
@@ -366,7 +365,7 @@ footer li {
 }
 
 .contact-list li {
-  margin: 2px
+  margin: 2px;
 }
 
 .vertical-line {
@@ -382,89 +381,84 @@ footer li {
 }
 
 @media screen and (min-width: 600px) {
-.mores {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 15px;
-  padding: 0 15px;
- }
-.more {
-  border-top: none;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto auto;
-  align-content: flex-start;
-  grid-gap: 5px;
-  margin: 0;
-}
-.more img {
-  width: 100%;
-}
-.more>figure {
-  order: -1;
-}
-    
+  .mores {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 15px;
+    padding: 0 15px;
+  }
+  .more {
+    border-top: none;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    align-content: flex-start;
+    grid-gap: 5px;
+    margin: 0;
+  }
+  .more img {
+    width: 100%;
+  }
+  .more > figure {
+    order: -1;
+  }
 }
 
 @media screen and (min-width: 800px) {
-  
- .articles {
-        display: grid;
-        grid-template-columns: 5fr 2fr;
-        grid-gap: 20px;
-    }
-    .articles-right {
-        display: block;
-        margin-right: 20px;
-    }
-    .articles-right ul {
-        list-style-type: none;
-    }
-    .articles-right li {
-        font-size: 0.9rem;
-        padding: 15px 0;
-        border-top: 1px solid lightgray;
-    }
-
+  .articles {
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    grid-gap: 20px;
+  }
+  .articles-right {
+    display: block;
+    margin-right: 20px;
+  }
+  .articles-right ul {
+    list-style-type: none;
+  }
+  .articles-right li {
+    font-size: 0.9rem;
+    padding: 15px 0;
+    border-top: 1px solid lightgray;
+  }
 }
 
 @media screen and (min-width: 1100px) {
-   
-    .container2 {
-        width: 1100px;
-        margin: 0 auto;
-    }
-    
-    .editor-title {
-        border-bottom: 1px solid lightgrey;
-        padding-bottom: 20px;
-    }
-    h4 {
-        margin: 20px 0;
-    }
-    .newsletters {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-gap: 15px;
-    }
-    .newsletter {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 80px auto;
-        grid-gap: 15px;
-        margin: 0;
-    }
-    .newsletter img {
-        margin-bottom: 10px;
-    }
+  .container2 {
+    width: 1100px;
+    margin: 0 auto;
+  }
 
-    .description {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: auto auto;
-        align-content: space-between;
-    }
-    .mores {
-        padding: 0;
-    }
-   
+  .editor-title {
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 20px;
+  }
+  h4 {
+    margin: 20px 0;
+  }
+  .newsletters {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+  }
+  .newsletter {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 80px auto;
+    grid-gap: 15px;
+    margin: 0;
+  }
+  .newsletter img {
+    margin-bottom: 10px;
+  }
+
+  .description {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    align-content: space-between;
+  }
+  .mores {
+    padding: 0;
+  }
 }
