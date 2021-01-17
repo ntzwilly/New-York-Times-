@@ -396,6 +396,7 @@ footer li {
     grid-gap: 15px;
     padding: 0 15px;
   }
+
   .more {
     border-top: none;
     grid-template-columns: 1fr;
@@ -404,9 +405,11 @@ footer li {
     grid-gap: 5px;
     margin: 0;
   }
+
   .more img {
     width: 100%;
   }
+
   .more > figure {
     order: -1;
   }
@@ -418,10 +421,12 @@ footer li {
     grid-template-columns: 5fr 2fr;
     grid-gap: 20px;
   }
+
   .articles-right {
     display: block;
     margin-right: 20px;
   }
+
   .articles-right ul {
     list-style-type: none;
   }
@@ -442,14 +447,17 @@ footer li {
     border-bottom: 1px solid lightgrey;
     padding-bottom: 20px;
   }
+
   h4 {
     margin: 20px 0;
   }
+
   .newsletters {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 15px;
   }
+
   .newsletter {
     display: grid;
     grid-template-columns: 1fr;
@@ -457,6 +465,7 @@ footer li {
     grid-gap: 15px;
     margin: 0;
   }
+
   .newsletter img {
     margin-bottom: 10px;
   }
@@ -471,3 +480,4 @@ footer li {
     padding: 0;
   }
 }
+
