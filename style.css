@@ -430,6 +430,7 @@ footer li {
   .articles-right ul {
     list-style-type: none;
   }
+
   .articles-right li {
     font-size: 0.9rem;
     padding: 15px 0;
@@ -476,8 +477,8 @@ footer li {
     grid-template-rows: auto auto;
     align-content: space-between;
   }
+
   .mores {
     padding: 0;
   }
 }
-
