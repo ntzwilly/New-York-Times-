@@ -4,7 +4,7 @@
 
 > New York Times article Project
 
-![screenshot](Images/screenshot)
+![screenshot](app_screenshot.png)
 
 This project features HTML5 semantic tags, positioning elements, float, flexbox, and Grid.
 
@@ -26,15 +26,15 @@ Knowledge of HTML Semantics and CSS Box model
 
 👤 **Ntazama Willy**
 
-- GitHub: [@githubhandle](@ntzwilly)
-- Twitter: [@twitterhandle](@WNtazama)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/ntazama-willy-b676b7aa)
+- GitHub: [@ntzwilly](https://github.com/ntzwilly)
+- Twitter: [@WNtazama]()
+- LinkedIn: [ntazama willy](www.linkedin.com/in/ntazama-willy-b676b7aa)
 
 👤 **Olajumoke Priscilla Oni**
 
-- GitHub: [@githubhandle](@prolajumokeoni)
-- Twitter: [@twitterhandle](@prolajumokeoni)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/?originalSubdomain=ng)
+- GitHub: [@prolajumokeoni](https://github.com/prolajumokeoni)
+- Twitter: [@prolajumokeoni](https://twitter.com/prolajumokeoni?lang=en)
+- LinkedIn: [Olajumoke Priscilla Oni](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/?originalSubdomain=ng)
 
 ## 🤝 Contributing
 
