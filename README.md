@@ -1,52 +1,57 @@
-# Task: Our assignment was to clone the New York times page from the odin project.
-[Live demo of the deployed project](https://ntzwilly.github.io/New-York-Times-/)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# During the collaborative we learnt how to:
- 1. Set up GitHub
- 2. Set up linters 
- 3. Create HTML5 semantic tags
- 4. Position elements
- 5. Float elementsd
- 6. Use flexbox 
- 
- All we learnt above have been implemented in this Collaborative Project.
- 
- # Project Details: this project can be divided into 3 sections;
-- Head: The head contains the link to css, meta name & charset and title of the page.
+# Project Name
 
-- Body: Body contains  content that includes icons, pictures, videos and text all gotten from the The new York Times website.
+> New York Times article Project
 
-- Footer: footer contains other information that can help the user navigate to other sections of the website. 
+![screenshot](Images/screenshot)
 
-# Screenshots from our project
+This project features HTML5 semantic tags, positioning elements, float, flexbox, and Grid.
 
-![header 1](https://user-images.githubusercontent.com/69638013/104853591-2de94100-5902-11eb-89f3-182227b5f5b3.png)
+## Built With
 
-![body ](https://user-images.githubusercontent.com/69638013/104853698-c7185780-5902-11eb-8c31-6efea6680425.png)
+- HTML5 & CSS3
+
+## Live Demo
+
+[Live Demo Link](https://ntzwilly.github.io/New-York-Times-/)
 
 
-![editors pick 1](https://user-images.githubusercontent.com/69638013/104853600-3d688a00-5902-11eb-9570-95e573ad967d.png)
+### Prerequisites
 
-![footer1](https://user-images.githubusercontent.com/69638013/104853924-56723a80-5904-11eb-83fc-9ae2551c5dfa.png)
-
-
-# screenshots from original page 
-![www nytimes com_2014_03_18_science_space_detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang html__r=0%27](https://user-images.githubusercontent.com/69638013/104735931-85d94980-5742-11eb-902e-d66730ac3354.png)
-![footer original](https://user-images.githubusercontent.com/69638013/104735941-87a30d00-5742-11eb-9d1c-6faefe821e03.png)
-
-Suggestions and comments on how to make this project better are welcomed by the collaborators.
-# Collaborators username on
-
-Github: 
-Willy: [github.com/ntzwilly ](https://github.com/ntzwilly )
-Priscilla: [github.com/prolajumoke](github.com/prolajumoke)
-
-Twitter:
-Willy: [twitter.com/NtazamaWilly](twitter.com/NtazamaWilly)
-Priscilla: [twitter.com/prolajumokeoni](twitter.com/prolajumokeoni)
-
-Linkedin:
-Willy: [linkedin.com/ntazama-willy-b676b7aa](linkedin.com/ntazama-willy-b676b7aa)
-Priscilla: [linkedin.com/olajumoke-priscilla-oni-44a48b162](linkedin.com/olajumoke-priscilla-oni-44a48b162)
+Knowledge of HTML Semantics and CSS Box model
 
 
+## Authors
+
+👤 **Ntazama Willy**
+
+- GitHub: [@githubhandle](@ntzwilly)
+- Twitter: [@twitterhandle](@WNtazama)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/ntazama-willy-b676b7aa)
+
+👤 **Olajumoke Priscilla Oni**
+
+- GitHub: [@githubhandle](@prolajumokeoni)
+- Twitter: [@twitterhandle](@prolajumokeoni)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/?originalSubdomain=ng)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
