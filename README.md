@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# New York Times Clone
 
 > New York Times article Project
 
@@ -28,7 +28,7 @@ Knowledge of HTML Semantics and CSS Box model
 
 - GitHub: [@ntzwilly](https://github.com/ntzwilly)
 - Twitter: [@WNtazama](https://twitter.com/WNtazama)
-- LinkedIn: [ntazama willy](www.linkedin.com/in/ntazama-willy-b676b7aa)
+- LinkedIn: [ntazama willy](https://www.linkedin.com/in/ntazama-willy-b676b7aa/)
 
 👤 **Olajumoke Priscilla Oni**
 
