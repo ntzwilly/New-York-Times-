@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# New York Times Clone
+## New York Times Clone
 
 > New York Times article Project
 
