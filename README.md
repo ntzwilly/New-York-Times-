@@ -6,7 +6,7 @@
 
 ![screenshot](app_screenshot.png)
 
-This project features HTML5 semantic tags, positioning elements, float, flexbox, and Grid.
+This project features HTML5 semantic tags, positioning elements, float, CSS flexbox, and Grid.
 
 ## Built With
 
